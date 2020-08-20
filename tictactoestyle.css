@@ -1,0 +1,184 @@
+.title{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: #FFFFFF;
+  top: 20px;
+  left: 570px;
+  position: absolute;
+  font-size: 70px;
+}
+
+.titleunderline{
+  background-color: #FFFFFF;
+  position: absolute;
+  height: 3px;
+  width: 1000px;
+  top: 130px;
+  left: 280px;
+}
+
+.startgamebtn{
+  text-decoration:none;
+  position: absolute;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 30px;
+  color: #FFFFFF;
+  top: 380px;
+  left: 655px;
+  padding: 10px;
+  border: 3px;
+  border-style: solid;
+  border-color: #8E98CB;
+  border-radius: 10px;
+  background-color: #2D2D30;
+}
+
+.gamewindow{
+  position: absolute;
+  background-color: #2D2D30;
+  border-radius: 30px;
+  border: 3px;
+  border-style: dashed;
+  border-color: #2D2D30;
+  height: 450px;
+  width: 1000px;
+  top: 230px;
+  left: 280px;
+}
+
+.tictactoeline{
+  background-color: #2D2D30;
+  position: absolute;
+  height: 3px;
+  width: 500px;
+  top: 330px;
+}
+
+.scorepanel{
+  position: absolute;
+  background-color: #8E98CB;
+  height: 450px;
+  width: 410px;
+  top: 233px;
+  left: 875px;
+  border-radius: 0 30px 30px 0;
+}
+
+.playerlabel{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 50px;
+  position: absolute;
+  color: #8E98CB;
+  top: 250px;
+  left: 910px;
+}
+
+.commentarylabel{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 25px;
+  position: absolute;
+  color: #8E98CB;
+  top: 420px;
+  left: 880px;
+  max-width: 400px;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0 auto;
+  display: inline;
+}
+
+.cloverbtn{
+  position: absolute;
+  background-size: cover;
+  height: 50px;
+  width: 50px;
+  top: 610px;
+}
+
+.gamebtn-1-1{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 159px;
+  top: 242px;
+  left: 328px;
+}
+
+.gamebtn-1-2{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 167.9px;
+  top: 242px;
+  left: 493px;
+}
+
+.gamebtn-1-3{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 159px;
+  top: 242px;
+  left: 666.79px;
+}
+
+.gamebtn-2-1{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 159px;
+  top: 387.5px;
+  left: 328px;
+}
+
+.gamebtn-2-2{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 167.9px;
+  top: 387.5px;
+  left: 493px;
+}
+
+.gamebtn-2-3{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 159px;
+  top: 387.5px;
+  left: 666.79px;
+}
+
+.gamebtn-3-1{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 159px;
+  top: 532px;
+  left: 328px;
+}
+
+.gamebtn-3-2{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 167.9px;
+  top: 532px;
+  left: 493px;
+}
+
+.gamebtn-3-3{
+  position: absolute;
+  background-color: #2D2D30;
+  height: 139px;
+  width: 159px;
+  top: 532px;
+  left: 666.79px;
+}
+
+.userbtnclick{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+  background-color: #2D2D30;
+}
